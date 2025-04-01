@@ -1,0 +1,4 @@
+Initializer List Format:
+ClassName::ClassName(parameter_list)
+    : member1(initial_value1), member2(initial_value2), ...{
+}

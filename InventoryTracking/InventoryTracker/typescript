@@ -1,0 +1,153 @@
+Script started on 2024-08-16 15:35:38+00:00
+]0;cssuwbstudent@LinuxMachine:~/nmdr/InventoryTracker[cssuwbstudent@LinuxMachine InventoryTracker]$ g++ *.cpp
+]0;cssuwbstudent@LinuxMachine:~/nmdr/InventoryTracker[cssuwbstudent@LinuxMachine InventoryTracker]$ ./a.out
+Error: unknown genre Z.
+Error: unknown genre Z.
+Error: unknown genre code Z.
+Error: unknown transaction code X.
+Error: unknown transaction code Z.
+Data loaded successfully.
+Available Movies: 
+------------------------------------------------------
+C       10      George Cukor             Holiday                            Cary Grant          9       1938
+C       10      George Cukor             Holiday                            Katherine Hepburn   9       1938
+C       10      Victor Fleming           Gone With the Wind                 Clark Gable         2       1939
+C       10      Victor Fleming           Gone With the Wind                 Vivien Leigh        2       1939
+C       10      Victor Fleming           The Wizard of Oz                   Judy Garland        7       1939
+C       10      George Cukor             The Philadelphia Story             Cary Grant          5       1940
+C       10      George Cukor             The Philadelphia Story             Katherine Hepburn   5       1940
+C       10      John Huston              The Maltese Falcon                 Humphrey Bogart     10      1941
+C       10      Michael Curtiz           Casablanca                         Humphrey Bogart     8       1942
+C       10      Michael Curtiz           Casablanca                         Ingrid Bergman      8       1942
+C       10      Frank Capra              It's a Wonderful Life              Donna Reed          11      1946
+C       10      Frank Capra              It's a Wonderful Life              James Steward       11      1946
+C       10      Stanley Kubrick          A Clockwork Orange                 Malcolm McDowell    2       1971
+C       10      Hal Ashby                Harold and Maude                   Ruth Gordon         3       1971
+
+Available Movies: 
+------------------------------------------------------
+F   10   Woody Allen          Annie Hall                               1977
+F   10   John Landis          National Lampoon's Animal House          1978
+F   10   Joel Coen            Fargo                                    1996
+F   10   Gore Verbinski       Pirates of the Caribbean                 2003
+F   10   Rob Reiner           When Harry Met Sally                     1989
+F   10   Nora Ephron          Sleepless in Seattle                     1993
+F   10   Nora Ephron          You've Got Mail                          1998
+
+Available Movies: 
+------------------------------------------------------
+C       10      George Cukor             Holiday                            Cary Grant          9       1938
+C       10      George Cukor             Holiday                            Katherine Hepburn   9       1938
+C       10      Victor Fleming           Gone With the Wind                 Clark Gable         2       1939
+C       10      Victor Fleming           Gone With the Wind                 Vivien Leigh        2       1939
+C       10      Victor Fleming           The Wizard of Oz                   Judy Garland        7       1939
+C       10      George Cukor             The Philadelphia Story             Cary Grant          5       1940
+C       10      George Cukor             The Philadelphia Story             Katherine Hepburn   5       1940
+C       10      John Huston              The Maltese Falcon                 Humphrey Bogart     10      1941
+C       10      Michael Curtiz           Casablanca                         Humphrey Bogart     8       1942
+C       10      Michael Curtiz           Casablanca                         Ingrid Bergman      8       1942
+C       10      Frank Capra              It's a Wonderful Life              Donna Reed          11      1946
+C       10      Frank Capra              It's a Wonderful Life              James Steward       11      1946
+C       10      Stanley Kubrick          A Clockwork Orange                 Malcolm McDowell    2       1971
+C       10      Hal Ashby                Harold and Maude                   Ruth Gordon         3       1971
+
+No recorded transactions for this customer.
+No recorded transactions for this customer.
+No recorded transactions for this customer.
+Error: customer not found!
+Error: movie not found!
+Error: this Movie is out of stock.
+Error: this Movie is out of stock.
+Error: movie not found!
+Available Movies: 
+------------------------------------------------------
+C       9       George Cukor             Holiday                            Cary Grant          9       1938
+C       10      George Cukor             Holiday                            Katherine Hepburn   9       1938
+C       10      Victor Fleming           Gone With the Wind                 Clark Gable         2       1939
+C       10      Victor Fleming           Gone With the Wind                 Vivien Leigh        2       1939
+C       10      Victor Fleming           The Wizard of Oz                   Judy Garland        7       1939
+C       9       George Cukor             The Philadelphia Story             Cary Grant          5       1940
+C       9       George Cukor             The Philadelphia Story             Katherine Hepburn   5       1940
+C       9       John Huston              The Maltese Falcon                 Humphrey Bogart     10      1941
+C       10      Michael Curtiz           Casablanca                         Humphrey Bogart     8       1942
+C       10      Michael Curtiz           Casablanca                         Ingrid Bergman      8       1942
+C       10      Frank Capra              It's a Wonderful Life              Donna Reed          11      1946
+C       10      Frank Capra              It's a Wonderful Life              James Steward       11      1946
+C       9       Stanley Kubrick          A Clockwork Orange                 Malcolm McDowell    2       1971
+Error: this Movie is out of stock.
+
+Available Movies: 
+------------------------------------------------------
+F   9    Woody Allen          Annie Hall                               1977
+F   9    John Landis          National Lampoon's Animal House          1978
+F   8    Joel Coen            Fargo                                    1996
+F   10   Gore Verbinski       Pirates of the Caribbean                 2003
+F   9    Rob Reiner           When Harry Met Sally                     1989
+F   9    Nora Ephron          Sleepless in Seattle                     1993
+F   9    Nora Ephron          You've Got Mail                          1998
+
+Available Movies: 
+------------------------------------------------------
+C       9       George Cukor             Holiday                            Cary Grant          9       1938
+C       10      George Cukor             Holiday                            Katherine Hepburn   9       1938
+C       10      Victor Fleming           Gone With the Wind                 Clark Gable         2       1939
+C       10      Victor Fleming           Gone With the Wind                 Vivien Leigh        2       1939
+C       10      Victor Fleming           The Wizard of Oz                   Judy Garland        7       1939
+C       9       George Cukor             The Philadelphia Story             Cary Grant          5       1940
+C       9       George Cukor             The Philadelphia Story             Katherine Hepburn   5       1940
+C       9       John Huston              The Maltese Falcon                 Humphrey Bogart     10      1941
+C       10      Michael Curtiz           Casablanca                         Humphrey Bogart     8       1942
+C       10      Michael Curtiz           Casablanca                         Ingrid Bergman      8       1942
+C       10      Frank Capra              It's a Wonderful Life              Donna Reed          11      1946
+C       10      Frank Capra              It's a Wonderful Life              James Steward       11      1946
+C       9       Stanley Kubrick          A Clockwork Orange                 Malcolm McDowell    2       1971
+Error: this Movie is out of stock.
+
+Transaction History for Minnie Mouse
+--------------------------------------------------------------
+Borrowed Good Morning Vietnam
+Borrowed The Philadelphia Story
+Borrowed Good Will Hunting
+Borrowed The Philadelphia Story
+Borrowed Harold and Maude
+Borrowed Fargo
+
+Transaction History for Mickey Mouse
+--------------------------------------------------------------
+Borrowed A Clockwork Orange
+Borrowed Harold and Maude
+Borrowed The Maltese Falcon
+Borrowed Holiday
+
+Transaction History for Freddie Frog
+--------------------------------------------------------------
+Borrowed Harold and Maude
+Returned Harold and Maude
+Borrowed Harold and Maude
+Returned Harold and Maude
+Borrowed Harold and Maude
+Returned Harold and Maude
+Borrowed Harold and Maude
+
+Transaction History for Wally Wacky
+--------------------------------------------------------------
+Borrowed You've Got Mail
+Returned You've Got Mail
+Borrowed Harold and Maude
+Borrowed Harold and Maude
+Borrowed National Lampoon's Animal House
+
+Transaction History for Porky Pig
+--------------------------------------------------------------
+Borrowed Annie Hall
+Borrowed When Harry Met Sally
+Borrowed Silence of the Lambs
+Borrowed Dogfight
+Borrowed Harold and Maude
+
+Transactions processed.
+Cleanup completed.
+]0;cssuwbstudent@LinuxMachine:~/nmdr/InventoryTracker[cssuwbstudent@LinuxMachine InventoryTracker]$ exit
+exit
+
+Script done on 2024-08-16 15:35:53+00:00

@@ -1,0 +1,28 @@
+-----------------------------------------------------------------
+Commands:
+- To compile all .cpp files, use the following command: g++ *.cpp
+- To execute the compiled program, use the following command: ./a.out
+- To perform a memory leak check with Valgrind, follow these steps:
+  1) Compile the program with debug symbols: 
+     g++ -g -o myprogram <.cpp files>
+     (compile ALL .cpp files as needed)
+  2) Run Valgrind on the compiled program: 
+     valgrind ./myprogram
+- To check the current Valgrind version, use: `valgrind --version`
+----------------------------------------------------------------
+Notes:
+- Incomplete functions should be marked with a comment: // to-do
+- If encountering linker issues:
+  1) Ensure proper usage of header guards
+  2) Include the necessary headers and namespaces (e.g., `std`)
+  3) Define every function intended for testing in `main()`
+----------------------------------------------------------------
+Debugger:
+- When encountering debugger issues:
+  1) Check the Task Output for any error messages (Terminal > Run Build Task...)
+  2) Verify configuration files (`launch.json` and `tasks.json`), 
+     ensuring correct file paths, commands, and options
+  3) Verify permissions for the files being accessed
+  4) For additional troubleshooting tips, consult ChatGPT at: 
+     [https://chatgpt.com/]
+---------------------------------------------------------------
